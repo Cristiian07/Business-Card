@@ -2,7 +2,7 @@ body {
   margin: 20px;
   background: #7209b7;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-image: url("https://pbs.twimg.com/media/E1lZrlkVcAMBwPs.jpg:large");
+  background-image: url("https://t4.ftcdn.net/jpg/04/82/57/07/360_F_482570762_P3aEbHzqlfdpksDy4kMvZdWGySNYH9Zx.jpg");
   background-size: cover;
 }
 
@@ -24,6 +24,7 @@ body {
 .card {
   border-radius: 30px;
   box-shadow: #560bad;
+  margin: auto; 
 }
 
 .card:hover {
